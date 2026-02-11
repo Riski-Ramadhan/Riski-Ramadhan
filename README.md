@@ -1,6 +1,6 @@
 # Hi there, I'm RISKI RAMADHAN 👋 
 
-Fullstack Developer | Mobile Specialist | Open Source Enthusiast
+Fullstack Developer | Software Engineer | Mobile Specialist | Open Source Enthusiast
 
 I am a passionate developer who loves to explore new technologies and build products that solve real-world problems. Currently focusing on high-performance backend with **Go** and modern mobile apps with **Flutter**.
 
