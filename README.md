@@ -41,7 +41,7 @@ I am a passionate developer who loves to explore new technologies and build prod
 
 ### 📫 Let's Connect!
 <p align="left">
-<a href="https://linkedin.com/in/username-kamu" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/riski-ramadhan-9a7546342/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/username-kamu" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
