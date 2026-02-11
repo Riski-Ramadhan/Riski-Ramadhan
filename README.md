@@ -39,16 +39,12 @@ I am a passionate developer who loves to explore new technologies and build prod
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riskyanna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskyanna&layout=compact&theme=tokyonight" />
-</p>
-
 ### 📫 Let's Connect!
 <p align="left">
 <a href="https://linkedin.com/in/username-kamu" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/username-kamu" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
 ---
+
 *“Coding is not just about writing lines of code, it’s about solving problems.”*
